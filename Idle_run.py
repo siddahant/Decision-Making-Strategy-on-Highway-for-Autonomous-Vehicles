@@ -7,7 +7,6 @@ env.config["simulation_frequency"] = 15
 env.config["show_trajectories"] = True
 env.config['real_time_rendering'] = True
 env.config['frequency'] = 20
-env.config['manual_control'] = True
 obs = env.reset()
 for _ in range(30):
     action = env.action_type.actions_indexes["IDLE"]
