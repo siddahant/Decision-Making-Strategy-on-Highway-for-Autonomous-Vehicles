@@ -11,7 +11,7 @@ env.config['real_time_rendering'] = True
 env.config['frequency'] = 20
 env.reset()
 model = DQN('MlpPolicy', env,
-              policy_kwargs=dict(net_arch=[256, 256]),
+              policy_kwargs=dict(net_arch=[256, 256], dueling=True),
               learning_rate=5e-4,
               buffer_size=15000,
               learning_starts=200,
@@ -24,6 +24,7 @@ model = DQN('MlpPolicy', env,
               tensorboard_log="highway_dqn/")
 model.learn(int(2e4))
 model.save("highway_dqn/model")
+
 
 # Load and test saved model
 env.config["duration"] = 50
