@@ -21,6 +21,6 @@ hyperparams = experiments[experiment]
 
 print(hyperparams)
 
-algo = DQN(namespace=experiment, resume=args.resume, **hyperparams)
+algo = DQN(namespace = experiment, resume=args.resume, **hyperparams)
 
 algo.learn()
