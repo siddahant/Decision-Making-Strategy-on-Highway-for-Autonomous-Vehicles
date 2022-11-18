@@ -1,0 +1,55 @@
+[rl_agents.trainer.evaluation:INFO] Episode 0 score: 17.3 
+[rl_agents.trainer.evaluation:INFO] Saved DQNAgent model to out\HighwayEnv\DQNAgent\run_20221117-141001_5888\checkpoint-0.tar 
+[rl_agents.trainer.evaluation:INFO] Episode 1 score: 11.0 
+[rl_agents.trainer.evaluation:INFO] Saved DQNAgent model to out\HighwayEnv\DQNAgent\run_20221117-141001_5888\checkpoint-1.tar 
+[rl_agents.trainer.evaluation:INFO] Episode 2 score: 21.3 
+[rl_agents.trainer.evaluation:INFO] Episode 3 score: 30.4 
+[rl_agents.trainer.evaluation:INFO] Episode 4 score: 32.8 
+[rl_agents.trainer.evaluation:INFO] Episode 5 score: 4.9 
+[rl_agents.trainer.evaluation:INFO] Episode 6 score: 16.3 
+[rl_agents.trainer.evaluation:INFO] Episode 7 score: 8.7 
+[rl_agents.trainer.evaluation:INFO] Episode 8 score: 5.7 
+[rl_agents.trainer.evaluation:INFO] Saved DQNAgent model to out\HighwayEnv\DQNAgent\run_20221117-141001_5888\checkpoint-8.tar 
+[rl_agents.trainer.evaluation:INFO] Episode 9 score: 13.8 
+[rl_agents.trainer.evaluation:INFO] Episode 10 score: 8.0 
+[rl_agents.trainer.evaluation:INFO] Episode 11 score: 4.0 
+[rl_agents.trainer.evaluation:INFO] Episode 12 score: 7.7 
+[rl_agents.trainer.evaluation:INFO] Episode 13 score: 13.3 
+[rl_agents.trainer.evaluation:INFO] Episode 14 score: 14.6 
+[rl_agents.trainer.evaluation:INFO] Episode 15 score: 1.8 
+[rl_agents.trainer.evaluation:INFO] Episode 16 score: 2.4 
+[rl_agents.trainer.evaluation:INFO] Episode 17 score: 11.8 
+[rl_agents.trainer.evaluation:INFO] Episode 18 score: 2.0 
+[rl_agents.trainer.evaluation:INFO] Episode 19 score: 8.4 
+[rl_agents.trainer.evaluation:INFO] Episode 20 score: 7.5 
+[rl_agents.trainer.evaluation:INFO] Episode 21 score: 11.9 
+[rl_agents.trainer.evaluation:INFO] Episode 22 score: 15.3 
+[rl_agents.trainer.evaluation:INFO] Episode 23 score: 6.3 
+[rl_agents.trainer.evaluation:INFO] Episode 24 score: 8.6 
+[rl_agents.trainer.evaluation:INFO] Episode 25 score: 5.4 
+[rl_agents.trainer.evaluation:INFO] Episode 26 score: 2.3 
+[rl_agents.trainer.evaluation:INFO] Episode 27 score: 12.0 
+[rl_agents.trainer.evaluation:INFO] Saved DQNAgent model to out\HighwayEnv\DQNAgent\run_20221117-141001_5888\checkpoint-27.tar 
+[rl_agents.trainer.evaluation:INFO] Episode 28 score: 3.0 
+[rl_agents.trainer.evaluation:INFO] Episode 29 score: 7.4 
+[rl_agents.trainer.evaluation:INFO] Episode 30 score: 8.0 
+[rl_agents.trainer.evaluation:INFO] Episode 31 score: 8.3 
+[rl_agents.trainer.evaluation:INFO] Episode 32 score: 21.6 
+[rl_agents.trainer.evaluation:INFO] Episode 33 score: 12.9 
+[rl_agents.trainer.evaluation:INFO] Episode 34 score: 7.9 
+[rl_agents.trainer.evaluation:INFO] Episode 35 score: 25.8 
+[rl_agents.trainer.evaluation:INFO] Episode 36 score: 27.2 
+[rl_agents.trainer.evaluation:INFO] Episode 37 score: 12.6 
+[rl_agents.trainer.evaluation:INFO] Episode 38 score: 8.5 
+[rl_agents.trainer.evaluation:INFO] Episode 39 score: 2.7 
+[rl_agents.trainer.evaluation:INFO] Episode 40 score: 13.8 
+[rl_agents.trainer.evaluation:INFO] Episode 41 score: 8.7 
+[rl_agents.trainer.evaluation:INFO] Episode 42 score: 20.0 
+[rl_agents.trainer.evaluation:INFO] Episode 43 score: 8.2 
+[rl_agents.trainer.evaluation:INFO] Episode 44 score: 24.3 
+[rl_agents.trainer.evaluation:INFO] Episode 45 score: 6.0 
+[rl_agents.trainer.evaluation:INFO] Episode 46 score: 12.4 
+[rl_agents.trainer.evaluation:INFO] Episode 47 score: 6.1 
+[rl_agents.trainer.evaluation:INFO] Episode 48 score: 25.5 
+[rl_agents.trainer.evaluation:INFO] Episode 49 score: 2.6 
+[rl_agents.trainer.evaluation:INFO] Saved DQNAgent model to out\HighwayEnv\DQNAgent\run_20221117-141001_5888\checkpoint-final.tar 

@@ -1,0 +1,8 @@
+{
+    "environments": ["configs/HighwayEnv/env.json"],
+    "agents": [
+        "configs/HighwayEnv/agents/DQNAgent/dqn.json",
+        "configs/HighwayEnv/agents/DQNAgent/ddqn.json",
+        "configs/HighwayEnv/agents/DQNAgent/dueling_ddqn.json"
+    ]
+}
