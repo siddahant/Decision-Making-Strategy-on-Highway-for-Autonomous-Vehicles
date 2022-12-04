@@ -9,7 +9,7 @@ from rl_agents.configuration import Configurable
 logger = logging.getLogger(__name__)
 
 
-def agent_factory(environment,  config):
+def agent_factory(environment, config):
     """
         Handles creation of agents.
 

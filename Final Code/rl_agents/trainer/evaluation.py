@@ -36,7 +36,7 @@ class Evaluation(object):
                  agent,
                  directory=None,
                  run_directory=None,
-                 num_episodes=1000,
+                 num_episodes=10000,
                  training=True,
                  sim_seed=None,
                  recover=None,
@@ -191,7 +191,7 @@ class Evaluation(object):
             - update model
         """
         episode = 0
-        episode_duration = 14  # TODO: use a fixed number of samples instead
+        episode_duration = 14 # TODO: use a fixed number of samples instead
         batch_sizes = near_split(self.num_episodes * episode_duration, size_bins=self.agent.config["batch_size"])
         self.agent.reset()
         for batch, batch_size in enumerate(batch_sizes):
